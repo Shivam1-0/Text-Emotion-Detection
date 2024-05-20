@@ -1,8 +1,8 @@
-numpy
-pandas
 seaborn
-neattext
-plotly
-scikit-learn
-joblib
 streamlit
+altair
+plotly
+pandas
+numpy
+datetime
+joblib
