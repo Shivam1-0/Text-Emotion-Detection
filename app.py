@@ -7,7 +7,7 @@ from datetime import datetime
 import joblib
 
 # Load Model
-pipe_lr = joblib.load(open("models/emotion_classifier_pipe_lr.pkl", "rb"))
+pipe_lr = joblib.load(open("/models/emotion_classifier_pipe_lr.pkl", "rb"))
 
 # Function
 def predict_emotions(docx):
